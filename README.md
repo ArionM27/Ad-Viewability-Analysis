@@ -18,9 +18,7 @@
 
 > An Interactive version of this Dashboard can be found [here](https://public.tableau.com/views/Ad-Viewability-Analysis/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-
-
-1. ![Alt text](image-url)
+1. ![Dashboard](https://github.com/ArionM27/Ad-Viewability-Analysis/blob/main/images/Dashboard%203.png "Ad Analysis Dashboard")
 
 ---
 
