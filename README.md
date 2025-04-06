@@ -18,6 +18,10 @@
 
 > An Interactive version of this Dashboard can be found [here](https://public.tableau.com/views/Ad-Viewability-Analysis/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
+
+
+1. ![Alt text](image-url)
+
 ---
 
 ## North Star Metrics and Key Performance Indicators (KPIs)
